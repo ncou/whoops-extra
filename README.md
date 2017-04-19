@@ -1,3 +1,7 @@
+# Abandoned
+
+Part of the code moved to https://github.com/nofw/foundation
+
 # Whoops extra
 
 [![Latest Version](https://img.shields.io/github/release/sagikazarmark/whoops-extra.svg?style=flat-square)](https://github.com/sagikazarmark/whoops-extra/releases)
